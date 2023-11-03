@@ -13,7 +13,7 @@ Phase: 1 Design Thinking(Refer this link)[Ai Phase1.pdf](https://github.com/Kari
 
 ## Development Phase 1 
 ### Model Building (Phase 3)
-[Model Building Ai_Phase3(2).ipynb](https://github.com/Karishmaarul/Market/blob/main/AI_Phase3.ipynb.pdf)
+[Model Building Ai_Phase3(2).ipynb](https://github.com/Karishmaarul/Market/blob/main/AI_Phase3%20(2).ipynb)
 
 ## Development Phase 2
 ### Testing and Evaluation (Phase 4)
